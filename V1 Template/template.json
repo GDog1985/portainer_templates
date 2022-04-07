@@ -11298,7 +11298,7 @@
         "restart_policy": "unless-stopped"
       }
     ]
-  }
+  },
   {
     "type": 1,
     "title": "ruTorrent",
